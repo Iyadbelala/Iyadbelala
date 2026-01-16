@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Iyed Belala</h1>
-<h3 align="center">An IT student, Full Stack developer & UI/UX Designer from Algeria, Constantine</h3>
+<h1 align="center">Hi 👋, I'm Iyad Belala</h1>
+<h3 align="center">A Full Stack Developer & UI/UX Designer from Algeria, Constantine</h3>
 
 - 🎓 I'm a **3rd Year IT Student** at **University Constantine 2**
 
@@ -11,9 +11,9 @@
 
 - 💻 I work with **PERN Stack, Flutter, Express, TypeScript**
 
-- 📫 How to reach me: **iyed_abderrahmene.belala@univ-constantine2.dz**
+- 📫 How to reach me: **your.email@univ-constantine2.dz**
 
-- ⚡ Fun fact: **I love turning ideas into Reality**
+- ⚡ Fun fact: **I love turning ideas into beautiful, functional applications**
 
 ---
 
@@ -37,6 +37,9 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 <!-- Database -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<!-- Languages -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <!-- Mobile -->
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
