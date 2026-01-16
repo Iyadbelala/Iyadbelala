@@ -11,7 +11,7 @@
 
 - 💻 I work with **PERN Stack, Flutter, Express, TypeScript**
 
-- 📫 How to reach me: **your.email@univ-constantine2.dz**
+- 📫 How to reach me: **iyed_abderrahmene.belala@univ-constantine2.dz**
 
 - ⚡ Fun fact: **I love turning ideas into beautiful, functional applications**
 
