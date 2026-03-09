@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Iyad Belala</h1>
+<h1 align="center">Hi 👋, I'm Iyed Belala</h1>
 <h3 align="center">A Full Stack Developer & UI/UX Designer from Algeria, Constantine</h3>
 
-- 🎓 I'm a **3rd Year IT Student** at **University Constantine 2**
+-  I'm a **3rd Year IT Student** at **University Constantine 2**
 
-- 🎨 I'm a **UI/UX Designer**
+-  I'm a **UI/UX Designer**
 
-- 🔭 I'm currently working on **Full Stack Projects**
+-  I'm currently working on **Full Stack Projects**
 
-- 🌱 I'm currently learning **Golang**
+-  I'm currently learning **Golang**
 
-- 💻 I work with **PERN Stack, Flutter, Express, TypeScript**
+-  I work with **PERN Stack, Flutter, Express, TypeScript**
 
-- 📫 How to reach me: **iyed_abderrahmene.belala@univ-constantine2.dz**
+-  How to reach me: **iyed_abderrahmene.belala@univ-constantine2.dz**
 
-- ⚡ Fun fact: **I love turning ideas into reality**
+-  Fun fact: **I love turning ideas into reality**
 
 ---
 
