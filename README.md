@@ -5,7 +5,7 @@
 
 -  I'm a **UI/UX Designer**
 
--  I'm currently working on **Full Stack Projects**
+-  I'm currently working on **STAG.OI**
 
 -  I'm currently learning **Golang**
 
