@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Iyed Belala</h1>
 <h3 align="center">A Full Stack Developer & UI/UX Designer from Algeria, Constantine</h3>
 
--  I'm a **3rd Year IT Student** at **University Constantine 2**
+-  I'm a **4th Year SE Student** at **University Constantine 2**
 
 -  I'm a **UI/UX Designer**
 
--  I'm currently working on **STAG.OI**
+-  I'm currently working on **Sealia**
 
--  I'm currently learning **Golang**
+- I'm currently working in **PrevAI Health**
+
+-  I'm currently learning **AWS Architecture**
 
 -  I work with **PERN Stack, Flutter, Express, TypeScript**
 
