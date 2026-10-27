@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Iyed Belala</h1>
-<h3 align="center">A Full Stack Developer & UI/UX Designer from Algeria, Constantine</h3>
+<h1 align="center">Hi, I'm Iyed Belala</h1>
+<h3 align="center">A Software Engineer </h3>
 
--  I'm a **4th Year Data science Student** at **University Constantine 2**
+-  I'm a **4th Year Data science Student** @ **University Constantine 2**
 
 -  I'm a **UI/UX Designer**
 
